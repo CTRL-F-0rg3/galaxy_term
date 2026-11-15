@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Galaxy Terminal
+GenericName=Terminal
+Comment=A sleek macOS-style terminal
+Exec=galaxy-term
+Icon=galaxy-term
+Terminal=false
+Type=Application
+Categories=System;TerminalEmulator;
+Keywords=terminal;shell;console;galaxy;macos;
+StartupNotify=true
